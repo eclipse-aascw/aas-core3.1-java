@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: 2025 aas-core3.1-java AUTHORS
+#
+# SPDX-License-Identifier: MIT
+
+version = 1
+
+# The list of authors, which is plain prose.
+[[annotations]]
+path = ["AUTHORS"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2025 aas-core3.1-java AUTHORS"
+SPDX-License-Identifier = "MIT"
