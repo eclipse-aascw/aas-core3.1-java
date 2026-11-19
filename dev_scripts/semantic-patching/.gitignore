@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2025 aas-core3.1-java AUTHORS
+#
+# SPDX-License-Identifier: MIT
+
+target/
+.idea/
+semantic-patching.iml
+deleteme.java
+VerificationPatched.java
